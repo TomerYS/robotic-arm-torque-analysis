@@ -1,7 +1,7 @@
 # Robotic Arm - Torque Analysis
 
 ![Robotic Arm Screenshot](Screenshot.png)  
-*(Replace with an actual screenshot path.)*
+
 
 ## Overview
 A concise Python **Tkinter** application for analyzing **joint torques** in a 3‑link robotic arm under two scenarios:
