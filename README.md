@@ -1,6 +1,6 @@
 # Robotic Arm - Torque Analysis
 
-![Robotic Arm Screenshot](./docs/arm_screenshot.png)  
+![Robotic Arm Screenshot](Screenshot.png)  
 *(Replace with an actual screenshot path.)*
 
 ## Overview
